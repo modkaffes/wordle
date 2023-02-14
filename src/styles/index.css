@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-black: #000;
+    --color-white: #fff;
+    --color-green: #6aaa64;
+    --color-green-dark: #538d4e;
+    --color-yellow: #c9b458;
+    --color-yellow-dark: #b59f3b;
+    --color-gray-1: #d3d6da;
+    --color-gray-2: #818384;
+    --color-gray-3: #787c7e;
+    --color-gray-4: #3a3a3c;
+    --color-gray-5: #121213;
+  }
+}
